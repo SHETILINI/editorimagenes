@@ -15,6 +15,9 @@
 <div align="center"> 
     <img  align="center" src="https://user-images.githubusercontent.com/35218826/40895380-0b9f4cd6-67ea-11e8-982f-18121daa3a04.png" alt="Toast UI ImageEditor" style="max-width: 100%;">
 
+    
+<br>
+    
 <p dir="auto"><a href="https://github.com/nhn/tui.image-editor/releases/latest"><img src="https://camo.githubusercontent.com/8f401d9c5900419892615780a44580019fe9edd1bc176ae4b04508402358b0ff/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f6e686e2f7475692e696d6167652d656469746f722e737667" alt="github version" data-canonical-src="https://img.shields.io/github/release/nhn/tui.image-editor.svg" style="max-width: 100%;"></a>
 <a href="https://www.npmjs.com/package/tui-image-editor" rel="nofollow"><img src="https://camo.githubusercontent.com/437d729b28df92025011263877f32eedeab8f03ef3cdba536fd2ab23877a91a7/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7475692d696d6167652d656469746f722e737667" alt="npm version" data-canonical-src="https://img.shields.io/npm/v/tui-image-editor.svg" style="max-width: 100%;"></a>
 <a href="https://github.com/nhn/tui.image-editor/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/9ea2f48d860bc7c7e6a6587c196725efb7d097d87c097535d99c5e0885e25277/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6e686e2f7475692e696d6167652d656469746f722e737667" alt="license" data-canonical-src="https://img.shields.io/github/license/nhn/tui.image-editor.svg" style="max-width: 100%;"></a>
