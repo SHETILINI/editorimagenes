@@ -1,3 +1,8 @@
+<style>
+    div{
+        margin-top: 1rem;
+    }
+</style>
 <div align="center"> 
     <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 <p align="center" dir="auto">
@@ -21,8 +26,8 @@
 </div>
 
 
-
-Author: Ángel Romero Bueno
+<div align="center">
+    Author: Ángel Romero Bueno
 
 TOAST UI:
 - https://ui.toast.com/
@@ -30,3 +35,6 @@ TOAST UI:
 - https://nhn.github.io/tui.image-editor/latest/
 
 - https://stackoverflow.com/questions/64096290/how-to-implement-toast-ui-image-editor
+
+</div>
+
