@@ -38,11 +38,11 @@
     Author: Ángel Romero Bueno
 
 TOAST UI:
-- https://ui.toast.com/
+https://ui.toast.com/
 
-- https://nhn.github.io/tui.image-editor/latest/
+https://nhn.github.io/tui.image-editor/latest/
 
-- https://stackoverflow.com/questions/64096290/how-to-implement-toast-ui-image-editor
+https://stackoverflow.com/questions/64096290/how-to-implement-toast-ui-image-editor
 
 </div>
 
