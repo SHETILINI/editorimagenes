@@ -1,9 +1,4 @@
-<style>
-    div{
-        margin-top: 1rem;
-    }
-</style>
-<div align="center"> 
+<div align="center" margin-bottom= "1rem"> 
     <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 <p align="center" dir="auto">
 <a href="https://travis-ci.org/laravel/framework" rel="nofollow"><img src="https://camo.githubusercontent.com/fa459b08edcef0a72eaec3b515452fa09f6efb1282166209476903af384e145c/68747470733a2f2f7472617669732d63692e6f72672f6c61726176656c2f6672616d65776f726b2e737667" alt="Build Status" data-canonical-src="https://travis-ci.org/laravel/framework.svg" style="max-width: 100%;"></a>
@@ -14,7 +9,7 @@
 </div>
 
 
-<div align="center"> 
+<div align="center" margin-bottom= "1rem"> 
     <img  align="center" src="https://user-images.githubusercontent.com/35218826/40895380-0b9f4cd6-67ea-11e8-982f-18121daa3a04.png" alt="Toast UI ImageEditor" style="max-width: 100%;">
 
 <p dir="auto"><a href="https://github.com/nhn/tui.image-editor/releases/latest"><img src="https://camo.githubusercontent.com/8f401d9c5900419892615780a44580019fe9edd1bc176ae4b04508402358b0ff/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f6e686e2f7475692e696d6167652d656469746f722e737667" alt="github version" data-canonical-src="https://img.shields.io/github/release/nhn/tui.image-editor.svg" style="max-width: 100%;"></a>
